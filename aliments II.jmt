@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jmatch-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Jose G. Perez</dc:creator>
+    <dc:title>les aliments II</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>les aliments II</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<matching-exercise>
+<default-right-item>???
+</default-right-item>
+
+<pair>
+<left-item><text>l&apos;eau</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>das Wasser</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>le fromage</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>der K&amp;#x00E4;se</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>le sucre</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>der Zucker</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>le sel</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>das Salz</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>les frittes</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>die Fritten</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>un oeuf</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>ein Ei</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>le jambon</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>der Schinken</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>les p&amp;#x00E2;tes</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>die Nudeln</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>un potage</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>eine Suppe</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>la confiture</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>die Konfit&amp;#x00FC;re</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>la bi&amp;#x00E8;re</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>das Bier</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>le vin rouge</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>der Rotwein</text>
+<fixed>0</fixed>
+</right-item></pair>
+
+<pair>
+<left-item><text>la viande</text>
+<fixed>1</fixed>
+</left-item>
+<right-item><text>das Fleisch</text>
+<fixed>0</fixed>
+</right-item></pair>
+</matching-exercise>
+</data>
+
+<hotpot-config-file>
+<jmatch>
+<exercise-subtitle>Eine Zuordnungs&amp;#x00FC;bung mit JMatch</exercise-subtitle>
+<instructions>Bilden Sie zusammenpassende Paare. Ziehen Sie dazu die Elemente aus der rechten in die linke Spalte.</instructions>
+<next-ex-url>naechste.htm</next-ex-url>
+<send-email>0</send-email>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>1</questions-to-show>
+<shuffle-questions>1</shuffle-questions>
+<separate-javascript-file>0</separate-javascript-file>
+<next-caption>Weiter</next-caption>
+<delete-caption>Kartenpaar ausblenden</delete-caption>
+<guess-correct>Alles richtig!</guess-correct>
+<guess-incorrect>Leider falsch!</guess-incorrect>
+</jmatch>
+
+<global>
+<your-score-is>Ihr/Dein Ergebnis ist:</your-score-is>
+<correct-indicator>&amp;#x2714;</correct-indicator>
+<incorrect-indicator>&amp;#x2718;</incorrect-indicator>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<times-up>Your time is over!</times-up>
+<check-caption>Pr&amp;#x00FC;fen</check-caption>
+<ok-caption>OK</ok-caption>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>inhalt.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>small</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jmatch-file>

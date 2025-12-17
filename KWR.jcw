@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jcross-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>Jose G. Perez</dc:creator>
+    <dc:title>KWR</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>7</version>
+
+<data>
+<title>KWR</title>
+
+
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer><reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<crossword>
+<grid><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>J</cell><cell>A</cell><cell>M</cell><cell>B</cell><cell>O</cell><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>A</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>F</cell><cell>R</cell><cell>I</cell><cell>T</cell><cell>E</cell><cell>S</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>R</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>P</cell><cell>O</cell><cell>I</cell><cell>S</cell><cell>S</cell><cell>O</cell><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>O</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>M</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>I</cell><cell></cell><cell>S</cell><cell>A</cell><cell>L</cell><cell>A</cell><cell>D</cell><cell>E</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>V</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell>G</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>R</cell><cell>I</cell><cell>Z</cell><cell></cell><cell>O</cell><cell>E</cell><cell>U</cell><cell>F</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>O</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell>N</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row><row><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row></grid>
+
+<clues><item><word>JAMBON</word><def>&amp;#x003C;img src=&quot;jambon.jpg&quot; alt=&quot;jambon.jpg&quot; title=&quot;jambon&quot; width=&quot;300&quot; height=&quot;185&quot;/&amp;#x003E;</def></item><item><word>FRITES</word><def>&amp;#x003C;img src=&quot;friten.jpg&quot; alt=&quot;friten.jpg&quot; title=&quot;friten&quot; width=&quot;200&quot; height=&quot;278&quot;/&amp;#x003E;</def></item><item><word>POISSON</word><def>&amp;#x003C;img src=&quot;fisch.jpg&quot; alt=&quot;fisch.jpg&quot; title=&quot;fisch&quot; width=&quot;287&quot; height=&quot;187&quot;/&amp;#x003E;</def></item><item><word>SALADE</word><def>&amp;#x003C;img src=&quot;salat.jpg&quot; alt=&quot;salat.jpg&quot; title=&quot;salat&quot; width=&quot;178&quot; height=&quot;175&quot;/&amp;#x003E;</def></item><item><word>RIZ</word><def>&amp;#x003C;img src=&quot;reis.jpg&quot; alt=&quot;reis.jpg&quot; title=&quot;reis&quot; width=&quot;200&quot; height=&quot;143&quot;/&amp;#x003E;</def></item><item><word>OEUF</word><def>&amp;#x003C;img src=&quot;ei.jpg&quot; alt=&quot;ei.jpg&quot; title=&quot;ei&quot; width=&quot;167&quot; height=&quot;104&quot;/&amp;#x003E;</def></item><item><word>BANANE</word><def>&amp;#x003C;img src=&quot;banane.jpg&quot; alt=&quot;banane.jpg&quot; title=&quot;banane&quot; width=&quot;312&quot; height=&quot;164&quot;/&amp;#x003E;</def></item><item><word>FROMAGE</word><def>&amp;#x003C;img src=&quot;fromage.jpg&quot; alt=&quot;fromage.jpg&quot; title=&quot;fromage&quot; width=&quot;245&quot; height=&quot;140&quot;/&amp;#x003E;</def></item><item><word>POIVRON</word><def>&amp;#x003C;img src=&quot;poivron.jpg&quot; alt=&quot;poivron.jpg&quot; title=&quot;poivron&quot; width=&quot;231&quot; height=&quot;180&quot;/&amp;#x003E;</def></item></clues>
+</crossword>
+</data>
+
+<hotpot-config-file>
+<jcross>
+<exercise-subtitle>Kreuzwortr&amp;#x00E4;tsel</exercise-subtitle>
+<instructions>Klicken Sie die Zahlen in dem Gitter an!</instructions>
+<guess-correct>Richtig!</guess-correct>
+<guess-incorrect>Leider falsch!</guess-incorrect>
+<clues-across>Waagerecht:</clues-across>
+<clues-down>Senkrecht:</clues-down>
+<next-correct-letter>Ein richtiger Buchstabe wurde eingef&amp;#x00FC;gt!</next-correct-letter>
+<include-keypad>1</include-keypad>
+<include-clue-list>0</include-clue-list>
+<enter-caption>Geben Sie die L&amp;#x00F6;sung ein.</enter-caption>
+<include-hint>0</include-hint>
+<case-sensitive>0</case-sensitive>
+<next-ex-url>naechste.htm</next-ex-url>
+<send-email>0</send-email>
+<separate-javascript-file>0</separate-javascript-file>
+</jcross>
+
+<global>
+<your-score-is>Ihr/Dein Ergebnis ist:</your-score-is>
+<check-caption>Pr&amp;#x00FC;fen</check-caption>
+<ok-caption>OK</ok-caption>
+<hint-caption></hint-caption>
+<keypad-characters>&amp;#x00E0; &amp;#x00E7; &amp;#x00E9; &amp;#x00EA; &amp;#x00E8; &amp;#x00EB; &amp;#x00F9; &amp;#x00F4; &amp;#x00C0; &amp;#x00C7; &amp;#x00C9; &amp;#x00CA;</keypad-characters>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>inhalt.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>small</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+</global>
+</hotpot-config-file>
+</hotpot-jcross-file>
